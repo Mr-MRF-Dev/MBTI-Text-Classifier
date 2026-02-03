@@ -1,6 +1,9 @@
 pandas
-scikit-learn
 numpy
 matplotlib
 seaborn
+scikit-learn
+nltk
+kagglehub
 imbalanced-learn
+joblib

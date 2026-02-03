@@ -1,12 +1,17 @@
 {
     "cSpell.words": [
+        "figsize",
+        "joblib",
+        "kagglehub",
         "matplotlib",
         "mbti",
         "ngram",
+        "nltk",
         "numpy",
         "scikit",
         "seaborn",
         "Tfidf",
-        "vectorizer"
+        "vectorizer",
+        "venv"
     ]
 }
