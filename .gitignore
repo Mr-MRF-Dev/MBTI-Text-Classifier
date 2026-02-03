@@ -1,0 +1,5 @@
+# csv files
+*.csv
+
+# log files
+*.log
