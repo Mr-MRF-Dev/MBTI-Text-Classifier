@@ -3,6 +3,3 @@
 
 # log files
 *.log
-
-# virtual environment
-venv/
