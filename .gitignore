@@ -15,7 +15,7 @@ __pycache__/
 *.ipynb_checkpoints
 
 # IDE
-.vscode/
+# .vscode/
 .idea/
 
 # Data files (large files)

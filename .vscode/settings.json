@@ -1,17 +1,21 @@
 {
     "cSpell.words": [
         "figsize",
+        "imblearn",
         "joblib",
         "kagglehub",
         "matplotlib",
         "mbti",
+        "Multinomial",
         "ngram",
         "nltk",
         "numpy",
         "scikit",
         "seaborn",
+        "stopwords",
         "Tfidf",
         "vectorizer",
-        "venv"
+        "venv",
+        "whitegrid"
     ]
 }
