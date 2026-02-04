@@ -1,12 +1,15 @@
 {
     "cSpell.words": [
+        "datasnaek",
         "figsize",
+        "fontsize",
         "imblearn",
         "joblib",
         "kagglehub",
         "matplotlib",
         "mbti",
         "Multinomial",
+        "nbstripout",
         "ngram",
         "nltk",
         "numpy",
@@ -16,6 +19,10 @@
         "Tfidf",
         "vectorizer",
         "venv",
-        "whitegrid"
+        "viridis",
+        "whitegrid",
+        "xlabel",
+        "xticks",
+        "ylabel"
     ]
 }
