@@ -1,6 +1,8 @@
 # 👥 MBTI Text Classifier
 
+![GitHub repo size](https://img.shields.io/github/repo-size/mr-mrf-dev/mbti-text-classifier)
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
+[![GitHub License](https://img.shields.io/github/license/mr-mrf-dev/mbti-text-classifier)](/LICENSE)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green.svg)
 
@@ -158,3 +160,11 @@ This project uses pre-commit for code quality:
 ## 🙏 Acknowledgments
 
 - Dataset: [MBTI Dataset on Kaggle](https://www.kaggle.com/datasets/datasnaek/mbti-type)
+
+## 🤝 Contributing
+
+We welcome any contributions you may have. If you're interested in helping out, please fork the repository and create an [Issue](https://github.com/Mr-MRF-Dev/MBTI-Text-Classifier/issues) or [Pull Request](https://github.com/Mr-MRF-Dev/MBTI-Text-Classifier/pulls). We'll be happy to review your contributions.
+
+## 📝 License
+
+This project is licensed under the MIT License. For more information, please refer to the [LICENSE](/LICENSE) file.
