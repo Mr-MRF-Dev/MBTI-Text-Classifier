@@ -7,3 +7,8 @@ nltk
 kagglehub
 imbalanced-learn
 joblib
+pre-commit
+black
+isort
+flake8
+nbstripout
