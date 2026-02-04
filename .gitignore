@@ -1,5 +1,35 @@
-# csv files
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (large files)
 *.csv
 
-# log files
+# Log files
 *.log
+
+# Model files (optional - uncomment if you don't want to track models)
+# models/*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle cache
+.cache/
