@@ -5,6 +5,7 @@
         "fontsize",
         "imblearn",
         "joblib",
+        "jupyterlab",
         "kagglehub",
         "matplotlib",
         "mbti",
