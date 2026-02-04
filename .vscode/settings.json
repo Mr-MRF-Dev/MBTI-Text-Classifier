@@ -9,6 +9,7 @@
         "matplotlib",
         "mbti",
         "Multinomial",
+        "nbqa",
         "nbstripout",
         "ngram",
         "nltk",
