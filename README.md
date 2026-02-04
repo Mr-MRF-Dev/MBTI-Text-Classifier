@@ -39,6 +39,9 @@ MBTI-Text-Classifier/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
+├── docs/
+│   ├── REPORT_FA.md        # Project report in Persian
+│   └── REPORT_EN.md        # Project report in English
 ├── data/
 │   ├── raw_data.csv         # Original dataset
 │   └── processed_data.csv   # Cleaned dataset
